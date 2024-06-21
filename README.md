@@ -1,7 +1,13 @@
-Hi!
+# Welcome to My GitHub Profile!
 
-Nice of you, to take a look at my profile. If you'd like to know more about me, just take a look at [my blog](https://tim.kicker.dev/). (Alt: [non-js link](https://blog.kicker.dev/))
+Hi there!
 
-![](https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg)
+Nice of you to take a look at my profile. If you'd like to know more about me, feel free to visit [my blog](https://tim.kicker.dev/). (Alt: [non-js link](https://blog.kicker.dev/))
 
-PS: the green bar is so big because my private job specific repo's are mostly written in c#. In case you were wondering.
+## Languages Used
+
+![Languages](https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg)
+
+> **Note:** The green bar is so big because my private job-specific repositories are mostly written in C#. In case you were wondering.
+
+Thanks for stopping by!
