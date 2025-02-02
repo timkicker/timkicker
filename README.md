@@ -1,8 +1,7 @@
-# Welcome to My GitHub Profile!
+# Hi
 
 Hi there!
-
-Nice of you to take a look at my profile. If you'd like to know more about me, feel free to visit [my blog](https://tim.kicker.dev/). (Alt: [non-js link](https://blog.kicker.dev/))
+[my blog](https://tim.kicker.dev/). (Alt: [non-js link](https://blog.kicker.dev/))
 
 ## Languages Used
 
