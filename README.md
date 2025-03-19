@@ -1,4 +1,4 @@
-# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა I'm Tim Kicker
+# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა I'm Tim 
 
 ## ⌨ About Me
 I'm a Computer Science student at the University of Innsbruck with a strong passion for **open source**, **low-level programming**, and **Linux**. I mostly work with **C# and C**, but I also explore other languages when needed. 
@@ -9,17 +9,12 @@ I'm a Computer Science student at the University of Innsbruck with a strong pass
 - ᗧ Writing amateur [tech blogs](tim.kicker.dev)
 
 ## 🛠 Tech Stack
-### ⛏ Languages & Tools
-- **Languages:** C#, C, Haskell, Assembly
+- **Languages:** Mostly C#, C, Haskell
 - **Frameworks:** Avalonia, WPF, MAUI
-- **Other:** Linux, Git, Visual Studio Code, Obsidian
+- **Other:** Linux ofc
 
 ## ▒▓ GitHub Stats ▓▒
-```ascii
-╔════════════════════════════════╗
-║ 📊 Most Used Languages         ║
-╚════════════════════════════════╝
-```
+
 ![Languages](https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg)
 
 ## ✉ Contact
