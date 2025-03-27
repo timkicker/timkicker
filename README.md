@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Innsbruck with a strong pass
 - ⌨️ Interested in **modding** & **homebrew development**
 - 🖧 Linux enthusiast, using it as a main for the past 6 years
 - 🏗 Currently working on **cross-platform development** and **self-hosting** solutions
-- ᗧ Writing amateur [tech blogs](tim.kicker.dev)
+- ᗧ Writing amateur [tech blogs](https://tim.kicker.dev)
 
 ## 🛠 Tech Stack
 - **Languages:** Mostly C#, C, Haskell
