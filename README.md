@@ -1,26 +1,24 @@
-# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა I'm Tim 
+# Hi there, I’m Tim
 
-## ⌨ About Me
-I'm a Computer Science student at the University of Innsbruck with a strong passion for **open source**, **low-level programming**, and **Linux**. I mostly work with **C# and C**, but I also explore other languages when needed. 
+## About Me
 
-- ⌨️ Interested in **modding** & **homebrew development**
-- 🖧 Linux enthusiast, using it as a main for the past 6 years
-- 🏗 Currently working on **cross-platform development** and **self-hosting** solutions
-- ᗧ Writing amateur [tech blogs](https://tim.kicker.dev)
+- Computer Science student, University of Innsbruck  
+- Passion for open source, low-level programming, Linux  
+- Primary languages: C#, C (exploring others as needed)  
+- Interests: modding & homebrew development, cross-platform work, self-hosting  
+- Amateur tech blogger: https://tim.kicker.dev  
 
-## 🛠 Tech Stack
-- **Languages:** Mostly C#, C, Haskell
-- **Frameworks:** Avalonia, WPF, MAUI
-- **Other:** Linux ofc
+## Tech Stack
 
-## ▒▓ GitHub Stats ▓▒
+- **Languages:** C#, C, Haskell  
+- **Frameworks:** Avalonia · WPF · MAUI  
+- **Tools:** Linux · shell · vim · Intellij  
+
+## GitHub Stats
 
 ![Languages](https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg)
 
-## ✉ Contact
+## Contact
 
-**Email:** [timkicker@outlook.com](mailto:timkicker@outlook.com)
-
-**Blog:** [tim.kicker.dev](https://tim.kicker.dev)
-
-Feel free to check out my repositories and collaborate! ᓚᘏᗢ
+- Email: tim@kicker.dev
+- Blog:   https://tim.kicker.dev  
