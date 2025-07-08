@@ -10,7 +10,7 @@
 
 ## Tech Stack
 
-- **Languages:** C#, C, Haskell  
+- **Languages:** C#, C, Haskell, Julia  
 - **Frameworks:** Avalonia · WPF · MAUI  
 - **Tools:** Linux · shell · vim · Intellij  
 
