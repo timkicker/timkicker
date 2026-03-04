@@ -1,3 +1,3 @@
 hii
 
-![Languages](https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg)
+[contact / blog](https://tim.kicker.dev)
